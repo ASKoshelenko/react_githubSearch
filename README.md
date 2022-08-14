@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# GitHub search app preview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/react_githubSearch/blob/main/Illustration%20GitHub_search/githubSearch01.png)
+
+## Search example
+
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/react_githubSearch/blob/main/Illustration%20GitHub_search/githubSearch02.png)
+
+## Search my profile
+
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/react_githubSearch/blob/main/Illustration%20GitHub_search/githubSearch03.png)
+
+## Add to favourites few repositories
+
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/react_githubSearch/blob/main/Illustration%20GitHub_search/githubSearch04.png)
+
+## Favourites page with repositories
+
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/react_githubSearch/blob/main/Illustration%20GitHub_search/githubSearch05.png)
 
 ## Available Scripts
 
